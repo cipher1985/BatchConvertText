@@ -1,0 +1,7 @@
+﻿<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>open.png</file>
+        <file>TextEditMenuCN.qm</file>
+    </qresource>
+</RCC>
